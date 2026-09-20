@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "bbfbfdd34e78b8022a38eaba",
+  "owner": "qe8uaxxpf",
+  "repo": "page-65ac9dbd1a187ed93e128336",
+  "title": "J20",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "65ac9dbd1a187ed93e128336",
+      "a": "J20",
+      "b": "机场官网线路发布页",
+      "entity": "J20",
+      "brand": "J20",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "2743a01df75d62a6f4b1faf19de3424308beebe0ea94dcbbef15f84b0071dd2e",
+      "content": {
+        "primary_entity": "J20",
+        "keyword1": "J20",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，J20 提供基础版、旗舰版与团队版三档方案，月付价格从 ¥15 到 ¥85 不等，按年付可享更划算的折算价格。基础版适合单人或少量设备使用，旗舰版增加 IPLC 专线与流媒体解锁能力，团队版面向多设备协作场景。客户端支持按设备类型选择对应版本，完成订阅配置后即可开始使用。",
+          "AI_HERO_SUBTITLE": "J20 多档套餐灵活选",
+          "AI_HERO_INTRO": "J20 提供基础版、旗舰版与团队版三种套餐，月付价格分别为 ¥15、¥35、¥85，按年付折算后约为 ¥150、¥350、¥850。不同套餐在流量额度、在线设备数量与节点类型上有所区分，可根据日常使用设备数量与流量需求进行选择。",
+          "AI_VISUAL_TITLE": "J20 套餐一览",
+          "AI_HIGHLIGHT_1": "三档套餐可选",
+          "AI_HIGHLIGHT_2": "按年付更划算",
+          "AI_HIGHLIGHT_3": "多设备同时在线",
+          "AI_FEATURES_TITLE": "J20 特点",
+          "AI_FEATURES_INTRO": "从套餐额度到设备支持，J20 按使用规模划分档位，方便快速定位合适方案。",
+          "AI_FEATURE_TITLE_1": "套餐梯度清晰",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按月付 ¥15 起。",
+          "AI_FEATURE_TITLE_2": "设备数按档递增",
+          "AI_FEATURE_TEXT_2": "基础版 3 台、旗舰版 5 台、团队版 20 台设备同时在线。",
+          "AI_FEATURE_TITLE_3": "订阅周期灵活",
+          "AI_FEATURE_TEXT_3": "支持按月或按年付费，年付价格约为月付十个月的费用。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同操作系统和设备类型对应不同客户端，建议根据实际使用设备选择相应版本并参考其订阅配置说明。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合轻量使用，旗舰版增加 IPLC 专线与流媒体节点，团队版提供更高流量与更多在线设备数。可结合月付与年付价格选择。",
+          "AI_GUIDE_TITLE": "选择与配置步骤",
+          "AI_GUIDE_INTRO": "确定流量与设备数量，再匹配对应套餐并完成客户端订阅设置。",
+          "AI_STEP_TITLE_1": "确定使用需求",
+          "AI_STEP_TEXT_1": "根据日常设备数量和每月流量预估，在基础版、旗舰版与团队版之间选择合适档位。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认所用设备类型与操作系统，选择对应的客户端版本并核对系统要求。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "按照所选客户端的订阅导入说明完成配置，即可开始使用 J20 服务。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "J20 的套餐价格分别是多少？",
+          "AI_FAQ_ANSWER_1": "基础版 ¥15/月，旗舰版 ¥35/月，团队版 ¥85/月。按年付分别约为 ¥150、¥350、¥850，折算后更划算。",
+          "AI_FAQ_QUESTION_2": "每个套餐支持多少台设备同时在线？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版支持 5 台，团队版支持 20 台设备同时在线。可根据常用设备数量选择对应档位。",
+          "AI_FAQ_QUESTION_3": "旗舰版与基础版有哪些区别？",
+          "AI_FAQ_ANSWER_3": "旗舰版流量为每月 300GB，高于基础版的 100GB，同时提供 IPLC 专线优化与全节点原生流媒体解锁，并支持 5 台设备在线。",
+          "AI_FAQ_QUESTION_4": "如何为不同设备选择客户端？",
+          "AI_FAQ_ANSWER_4": "先确认设备类型与操作系统，再选择对应版本的客户端。安装后按照该客户端的订阅导入步骤完成配置即可。",
+          "AI_FAQ_QUESTION_5": "按年付与按月付有什么区别？",
+          "AI_FAQ_ANSWER_5": "两种付费方式提供的套餐内容一致，按年付的折算价格低于按月逐月支付，适合确定长期使用的用户。",
+          "AI_CLOSING_TITLE": "选择合适的 J20 套餐",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求挑选档位，按年付更划算，配置订阅后即可使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "jckudvr.cn",
+    "host": "jckudvr.cn"
+  },
+  "file_hashes": {
+    "index.html": "bdf7f3cf85e50b234e84be54d2d198dca4ee6f471114c8c5114921491b0682f1",
+    "sitemap.xml": "fd7a13fd8835ae9bacf199bef9a6f02877c4c93d93d78c1b96ba8f41c08ea304",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "603d282d77324eae99a466112fffb5eb403417401718986bd46d72abad519b38",
+    "robots.txt": "8aa1386a5e5a94eafa1d604fb6d3e39372f39204fe1d72f806ee64bd71658016",
+    "605c13b72a4d9ed5734a65452a77598b.txt": "3f838816840d88e16215df00df4dc5420ed03d68aaaa17993197558cf6ddfbcd"
+  },
+  "revision": "c98debd60d1fe497e44f70147bb5ef273bb0ebfe9d332bf93f51bea9f4dd9686"
+}
